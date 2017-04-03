@@ -6,5 +6,5 @@ Our contributors are:
  * Caleb Carter
  * Jeremy Haase
  * Tucker Campbell
- * Garth Kiepper
+ * Garth Kiepper (ghost classification and fruit detection)
 
