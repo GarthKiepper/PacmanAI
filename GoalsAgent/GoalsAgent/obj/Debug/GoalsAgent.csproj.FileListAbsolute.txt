@@ -1,0 +1,6 @@
+c:\users\thatguyjustnow\documents\visual studio 2013\Projects\GoalsAgent\GoalsAgent\bin\Debug\GoalsAgent.exe.config
+C:\Users\ThatGuyJustNow\documents\visual studio 2013\Projects\GoalsAgent\GoalsAgent\bin\Debug\GoalsAgent.exe
+C:\Users\ThatGuyJustNow\documents\visual studio 2013\Projects\GoalsAgent\GoalsAgent\bin\Debug\GoalsAgent.pdb
+C:\Users\ThatGuyJustNow\documents\visual studio 2013\Projects\GoalsAgent\GoalsAgent\obj\Debug\GoalsAgent.csprojResolveAssemblyReference.cache
+C:\Users\ThatGuyJustNow\documents\visual studio 2013\Projects\GoalsAgent\GoalsAgent\obj\Debug\GoalsAgent.exe
+C:\Users\ThatGuyJustNow\documents\visual studio 2013\Projects\GoalsAgent\GoalsAgent\obj\Debug\GoalsAgent.pdb
